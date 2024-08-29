@@ -1,0 +1,12 @@
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\bin\Debug\BankSystemDataAccessLayer.dll
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.csproj.AssemblyReference.cache
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.dll
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\bin\Debug\BankSystemDataAccessLayer.dll
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.dll
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemDataAccessLayer\obj\Debug\BankSystemDataAccessLayer.pdb

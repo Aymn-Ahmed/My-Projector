@@ -1,0 +1,30 @@
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemPresentationLayer.exe.config
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemPresentationLayer.exe
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemPresentationLayer.pdb
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemBusinessLayer.dll
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemDataAccessLayer.dll
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemBusinessLayer.pdb
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.csproj.AssemblyReference.cache
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.Properties.Resources.resources
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.csproj.GenerateResource.cache
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.csproj.CoreCompileInputs.cache
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSyst.5F352D53.Up2Date
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.exe
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.pdb
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.LoginScreen.resources
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemPresentationLayer.exe.config
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemPresentationLayer.exe
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemPresentationLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemBusinessLayer.dll
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemDataAccessLayer.dll
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemBusinessLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.LoginScreen.resources
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.Properties.Resources.resources
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.csproj.GenerateResource.cache
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSyst.5F352D53.Up2Date
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.exe
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemPresentationLayer\obj\Debug\BankSystemPresentationLayer.pdb

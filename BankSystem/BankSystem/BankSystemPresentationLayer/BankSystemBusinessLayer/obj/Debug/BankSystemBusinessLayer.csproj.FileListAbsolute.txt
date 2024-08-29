@@ -1,0 +1,18 @@
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.dll
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.pdb
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.dll
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.AssemblyReference.cache
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSyst.08F90534.Up2Date
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.dll
+D:\Abu-Hadhoud Level 2\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.dll
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.dll
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSyst.08F90534.Up2Date
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.dll
+C:\Users\hassa\Downloads\Telegram Desktop\BankSystem\BankSystem\BankSystemPresentationLayer\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.pdb
